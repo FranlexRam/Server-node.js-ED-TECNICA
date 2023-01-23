@@ -1,13 +1,4 @@
 {
-  "users": [
-    {
-      "username": "franRam",
-      "id": 1
-    },
-    {
-      "username": "Eduardo23",
-      "id": 2
-    }
-  ],
+  "users": [],
   "todos": []
 }
